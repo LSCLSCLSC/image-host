@@ -1,0 +1,11 @@
+0
+"CustomNamespace(event_name='check_info', ratio_gt_0=0.3422, ratio_eq_0=0.6578, difference=0.3422)"
+"CustomNamespace(event_name='course_planning', ratio_gt_0=0.3422, ratio_eq_0=0.6578, difference=0.3422)"
+"CustomNamespace(event_name='excellent_star_award', ratio_gt_0=0.3422, ratio_eq_0=0.6578, difference=0.3422)"
+"CustomNamespace(event_name='lp_service', ratio_gt_0=0.3422, ratio_eq_0=0.6578, difference=0.3422)"
+"CustomNamespace(event_name='magic_mirror', ratio_gt_0=0.3422, ratio_eq_0=0.6578, difference=0.3422)"
+"CustomNamespace(event_name='scheduling_rules', ratio_gt_0=0.3422, ratio_eq_0=0.6578, difference=0.3422)"
+"CustomNamespace(event_name='self_introduction', ratio_gt_0=0.3422, ratio_eq_0=0.6578, difference=0.3422)"
+"CustomNamespace(event_name='top_student_award', ratio_gt_0=0.3422, ratio_eq_0=0.6578, difference=0.3422)"
+"CustomNamespace(event_name='unit_diagnosis', ratio_gt_0=0.3422, ratio_eq_0=0.6578, difference=0.3422)"
+"CustomNamespace(event_name='unit_review', ratio_gt_0=0.3422, ratio_eq_0=0.6578, difference=0.3422)"
